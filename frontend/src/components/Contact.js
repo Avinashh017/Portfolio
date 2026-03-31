@@ -13,7 +13,7 @@ function Contact() {
 
     try {
       const res = await axios.post(
-        "https://portfolio-backend-enn9.onrender.com/api/contact",
+        "https://portfolio-irvn.onrender.com/api/contact",
         form
       );
       alert(res.data.message);
