@@ -43,7 +43,7 @@ function Hero() {
         Contact Me
       </motion.a>
       <motion.a
-  href="/resume.pdf"
+  href="/Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   initial={{ opacity: 0 }}
