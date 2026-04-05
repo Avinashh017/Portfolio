@@ -5,7 +5,7 @@ function Projects() {
     {
       title: "Disaster Management System",
       desc: "Built a Disaster Management System to Help Govt to manage Disaster",
-      link: "https://github.com/Avinashh017/Disaster-Management-System"
+      link: "https://github.com/Avinashh017/Disaster-Management-System."
     },
     {
       title: "Movie Recommendation System",

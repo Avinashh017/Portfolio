@@ -42,6 +42,18 @@ function Hero() {
       >
         Contact Me
       </motion.a>
+      <motion.a
+  href="/resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  initial={{ opacity: 0 }}
+  animate={{ opacity: 1 }}
+  transition={{ delay: 2.2 }}
+  className="mt-4 px-6 py-3 border border-white rounded-lg hover:bg-white hover:text-black transition duration-300"
+>
+  View Resume
+</motion.a>
+
 
       {/* Social Icons */}
       <motion.div
