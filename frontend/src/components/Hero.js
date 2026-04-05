@@ -42,6 +42,7 @@ function Hero() {
       >
         Contact Me
       </motion.a>
+      
       <motion.a
   href="/Resume.pdf"
   target="_blank"
@@ -49,7 +50,7 @@ function Hero() {
   initial={{ opacity: 0 }}
   animate={{ opacity: 1 }}
   transition={{ delay: 2.2 }}
-  className="mt-4 px-6 py-3 border border-white rounded-lg hover:bg-white hover:text-black transition duration-300"
+  className="mt-4 px-6 py-3 bg-green-500 rounded-lg hover:bg-green-600 transition shadow-lg"
 >
   View Resume
 </motion.a>

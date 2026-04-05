@@ -4,7 +4,7 @@ function Projects() {
   const projects = [
     {
       title: "Disaster Management System",
-      desc: "Built a Disaster Management System to Help Govt to manage Disaster",
+      desc: "Built a Disaster Management System to Help Govt to manage  all Disaster and visualization with Disaster location.",
       link: "https://github.com/Avinashh017/Disaster-Management-System."
     },
     {
