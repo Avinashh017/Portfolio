@@ -29,7 +29,7 @@ function Hero() {
         transition={{ delay: 1.5 }}
         className="text-xl mt-4 text-gray-300"
       >
-        AI & Backend Developer
+        Data Science || Software Development || Full Stack Web Devloper
       </motion.p>
 
       {/* Button */}
