@@ -3,18 +3,23 @@ import { motion } from "framer-motion";
 function Projects() {
   const projects = [
     {
+      title: "Disaster Management System",
+      desc: "Built a Disaster Management System to Help Govt to manage Disaster",
+      link: "https://github.com/Avinashh017/Disaster-Management-System"
+    },
+    {
       title: "Movie Recommendation System",
-      desc: "Built a personalized movie recommendation system using collaborative filtering and content-based techniques. Integrated TMDB API for real-time data and deployed with an interactive UI.",
+      desc: "Built a personalized movie recommendation system and deployed with an interactive UI.",
       link: "https://github.com/Avinashh017/Movie-Recommendation-System"
     },
     {
       title: "Stock Price Prediction",
-      desc: "Developed an LSTM-based deep learning model to predict stock prices using historical data and technical indicators.",
+      desc: "Developed an LSTM-based deep learning model to predict stock prices using historical data.",
       link: "https://github.com/Avinashh017/Stock-price-prediction"
     },
     {
       title: "Whatsapp Chat Analyzer",
-      desc: "Analyzed WhatsApp chats to extract insights like user activity, word frequency, sentiment trends, and emoji usage using NLP.",
+      desc: "Analyzed WhatsApp chats to extract insights like user activity, word frequency and more using NLP.",
       link: "https://github.com/Avinashh017/whatsapp_chat_analysis"
     },
     {
