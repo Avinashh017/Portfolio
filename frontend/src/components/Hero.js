@@ -44,7 +44,7 @@ function Hero() {
       </motion.a>
       
       <motion.a
-  href="/Avinash.pdf"
+  href="/AvinashResume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   initial={{ opacity: 0 }}
